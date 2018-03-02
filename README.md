@@ -45,3 +45,6 @@ All of the original contents belong to Tree of Savior official group.
 
 ## Contribution
 Any issue reporting or pull request is welcome. 
+
+## LICENSE
+[MIT](https://github.com/hiiwave/Tos-Translater/blob/master/LICENSE)
