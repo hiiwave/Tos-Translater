@@ -36,11 +36,26 @@ class ExporterEnTw(Exporter):
         return dfs
 
 
+class ExporterTwEn(Exporter):
+    def export(self):
+        dfs = {}
+        for tsv in TSVS:
+            df1 = self.df_tws[tsv]
+            dfm = self.tables[tsv]
+            df = pd.merge(df1, dfm, on='korean', how='left')
+            df['name'] = np.where(
+                df['name_x'].isna(), df['name_y'], df['name_x'])
+            df = df[['no', 'name']]
+            path = self.output_path / tsv
+            df.to_csv(path, sep='\t', index=False, header=False)
+            print("Saved " + str(path))
+            dfs[tsv] = df
+        return dfs
+
 def ExporterFactory(langfrom, langto, output_path):
     if langfrom == 'en' and langto == 'tw':
         return ExporterEnTw(output_path / 'itos-tw')
     elif langfrom == 'tw' and langto == 'en':
-        return ExporterEnTw(output_path / 'itos-tw')
-        # return ExporterTwEn(output_path / 'twtos-en')
+        return ExporterTwEn(output_path / 'twtos-en')
     else:
         raise TypeError("Language Not support")
