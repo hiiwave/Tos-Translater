@@ -31,7 +31,7 @@ For Korean to English translation, there is already a group actively doing this.
 
 Theoretically, it's possible to support more languages without difficulty, including:
 - [ktos](http://tos.nexon.com) in Chinese
-- [jtos](http://tos.nexon.co.jp/) in Chinese
+- [jtos](http://tos.nexon.co.jp/) in English
 - [itos](https://treeofsavior.com/page/main/) in Japnese
 
 Since I don't know if there is such demand, and I'm not familiar with those languages, the development of these language support is not done yet. Let me know if you're interested and want to contribute.
