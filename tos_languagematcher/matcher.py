@@ -36,12 +36,19 @@ class Matcher():
             self.tables[tsv] = self.match(tsv)
 
     def match(self, tsv):
+        '''
+            Match two table by korean
+
+            Returns:
+                Merged dataframe with df['en'] and df['tw'] available
+        '''
         print("Matching.. " + tsv)
         df1 = self.readtsv(self.en_path, tsv)
         df2 = self.readtsv(self.tw_path, tsv)
         self.df_ens[tsv] = df1
         self.df_tws[tsv] = df2
         df = pd.merge(df1, df2, on='korean', how='outer')
+        df = df.rename({'name_x': 'en', 'name_y': 'tw'}, axis='columns')
         return df
 
     def export(self, langfrom, langto, output_path):
