@@ -16,11 +16,21 @@ class Exporter():
         self.df_tws = df_tws
 
     def export(self):
-        pass
+        dfs = self._prepare_dfs()
+        self._to_tsvs(dfs)
+
+    def _to_tsvs(self, dfs):
+        for tsv, df in dfs.items():
+            path = self.output_path / tsv
+            df.to_csv(path, sep='\t', index=False, header=False)
+            print("Saved " + str(path))
+
+    def _prepare_dfs(self):
+        return {}
 
 
 class ExporterEnTw(Exporter):
-    def export(self):
+    def _prepare_dfs(self):
         dfs = {}
         for tsv in TSVS:
             df1 = self.df_ens[tsv]
@@ -29,9 +39,20 @@ class ExporterEnTw(Exporter):
             df['name'] = np.where(
                 df['name_y'].isna(), df['name_x'], df['name_y'])
             df = df[['no', 'name']]
-            path = self.output_path / tsv
-            df.to_csv(path, sep='\t', index=False, header=False)
-            print("Saved " + str(path))
+            dfs[tsv] = df
+        return dfs
+
+
+class ExporterTwEn(Exporter):
+    def _prepare_dfs(self):
+        dfs = {}
+        for tsv in TSVS:
+            df1 = self.df_tws[tsv]
+            dfm = self.tables[tsv]
+            df = pd.merge(df1, dfm, on='korean', how='left')
+            df['name'] = np.where(
+                df['name_x'].isna(), df['name_y'], df['name_x'])
+            df = df[['no', 'name']]
             dfs[tsv] = df
         return dfs
 
@@ -40,7 +61,6 @@ def ExporterFactory(langfrom, langto, output_path):
     if langfrom == 'en' and langto == 'tw':
         return ExporterEnTw(output_path / 'itos-tw')
     elif langfrom == 'tw' and langto == 'en':
-        return ExporterEnTw(output_path / 'itos-tw')
-        # return ExporterTwEn(output_path / 'twtos-en')
+        return ExporterTwEn(output_path / 'twtos-en')
     else:
         raise TypeError("Language Not support")
