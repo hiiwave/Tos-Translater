@@ -28,7 +28,7 @@ class ExporterTwDualBase(Exporter):
             'Party': '組隊',
             'Whisper': '密語',
             'Guild': '公會',
-            'Shout': '大喊',
+            'Shout': '呼喊',
             'Groups': '群組'
         }
         rows = df['en'].isin(mymap.keys())
