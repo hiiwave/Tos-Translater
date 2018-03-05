@@ -2,7 +2,6 @@ from pathlib import Path
 import pandas as pd
 import numpy as np
 from abc import ABC, abstractmethod
-import functools
 from tos_languagematcher import TSVS
 
 
@@ -59,7 +58,7 @@ class Exporter(ABC):
 class ExporterEnTw(Exporter):
     def _get_df1(self, tsv):
         return self.df_ens[tsv]
-    
+
     def _make_df_result(self, df, tsv):
         return np.where(~df['tw'].isna(), df['tw'], df['en'])
 
@@ -67,7 +66,7 @@ class ExporterEnTw(Exporter):
 class ExporterTwEn(Exporter):
     def _get_df1(self, tsv):
         return self.df_tws[tsv]
-    
+
     def _make_df_result(self, df, tsv):
         return np.where(~df['en'].isna(), df['en'], df['tw'])
 

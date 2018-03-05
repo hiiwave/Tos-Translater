@@ -1,5 +1,6 @@
-from .exporter import *
-from .exporter_dual import *
+from .exporter import ExporterEnTw, ExporterTwEn, ExporterTwEnopt
+from .exporter_dual import ExporterTwDual1, ExporterTwDual2
+from .exporter_full import ExporterTwFull, ExporterLanguageMap
 
 
 def ExporterFactory(langfrom, langto, output_path):
@@ -13,5 +14,9 @@ def ExporterFactory(langfrom, langto, output_path):
         return ExporterTwDual1(output_path)
     elif (langfrom, langto) == ('tw', 'dual2'):
         return ExporterTwDual2(output_path)
+    elif (langfrom, langto) == ('tw', 'full'):
+        return ExporterTwFull(output_path)
+    elif (langfrom, langto) == ('tw', 'map'):
+        return ExporterLanguageMap(output_path)
     else:
         raise TypeError("Language Not support")
