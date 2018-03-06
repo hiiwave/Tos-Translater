@@ -50,6 +50,11 @@ Theoretically, it's possible to support more languages without difficulty, inclu
 Since I don't know if there is such demand, and I'm not familiar with those languages, the development of these language support is not done yet. Let me know if you're interested and want to contribute.
 
 
+## Known Issues
+* Market search function would lose effect while using a non-native language.
+So switch to native language whenever you're going to do market search.
+
+
 ## Credits
 This tool is open-sourced by player 波光粼粼 at guild [夏祭](https://forum.gamer.com.tw/C.php?bsn=19840&snA=29788) in tw-tos.
 
