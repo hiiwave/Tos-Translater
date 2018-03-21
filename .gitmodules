@@ -1,0 +1,3 @@
+[submodule "data/EnglishTranslation"]
+	path = data/EnglishTranslation
+	url = git@github.com:Treeofsavior/EnglishTranslation.git
