@@ -1037,7 +1037,7 @@ QUEST_LV_0400_20161005_001032	Perhaps, that farm was not meant for you. How abou
 QUEST_LV_0400_20161005_001033	Forgotten Refugees	잊혀진 피난민들				
 QUEST_LV_0400_20161005_001034	I will go get some help.	도움을 청하러 가겠다고 한다.				
 QUEST_LV_0400_20161005_001035	Explaining the situation of Mishekan Forest	미쉐칸 숲의 상황을 알리는 중				
-QUEST_LV_0400_20161005_001036	Informing that the news has been delievered to Uska of Klaipeda	클라페다의 우스카에게 전달했다고 이야기하는 중				
+QUEST_LV_0400_20161005_001036	Informing that the news has been delivered to Uska of Klaipeda	클라페다의 우스카에게 전달했다고 이야기하는 중				
 QUEST_LV_0400_20161005_001037	Alembique Tales	알렘빅 이야기				
 QUEST_LV_0400_20161005_001038	Talk to Kedoran Alliance Merchant Alta	케도라 상단원 알타와 대화				
 QUEST_LV_0400_20161005_001039	Kedoran Alliance Merchant Alta is looking some help.	케도라 상단원 알타가 누군가의 도움을 기다리고 있습니다				
@@ -2119,7 +2119,7 @@ QUEST_LV_0400_20171128_002130	Thank you. I want to go myself but... as you can s
 QUEST_LV_0400_20171128_002131	Any kind of trace of him would be good. No matter what you come across, please tell me.{nl}This person is very important to me...	그 녀석의 흔적이라면 어떠한 거라도 좋습니다. 뭔가 발견하거나 알아내거든 알려주십시오.{nl}저에게는 정말로 중요한 사람입니다..				저항군 아브라오마스
 QUEST_LV_0400_20171128_002132	That... belonged to him. That was the extra dragger he carried with him.{nl}Ohh, after gathering all these clues, is it still okay to believe he is still alive?	이건.. 그 녀석의 것입니다! 그 녀석이 예비용으로 차고 다니던 단검입니다!{nl}아아, 이렇게까지 단서를 모아도 아직 못 찾았다는 건 아직 살아있다고 생각해도 되겠지요..?				저항군 아브라오마스
 QUEST_LV_0400_20171128_002133	The last place is Lanko 22 Waters.. that's the demon's post. Which makes me more worried.{nl}Could you please check this final location? Ah, his name 	이제 남은 곳은 란코 22수역인데.. 그곳은 마족들의 주둔지나 다름없으니 걱정입니다.{nl}마지막으로 그곳에서 그 녀석을 한 번만 더 찾아봐주시겠습니까? 아, 이름은 				저항군 아브라오마스
-QUEST_LV_0400_20171128_002134	is	레오나르다스				
+QUEST_LV_0400_20171128_002134	Leonardas	레오나르다스				
 QUEST_LV_0400_20171128_002135	Leonardas.	라고 합니다.				저항군 아브라오마스
 QUEST_LV_0400_20171128_002136	Although we are not blood relatives, this recruit is like a brother to me.{nl}He always looked up to me and followed me into the army...If he disappears I...Ohhh...	사실 그 녀석은 핏줄로 이어져 있지 않지만 정말 소중히 여기는 동생입니다.{nl}그 녀석은 저를 동경하여 저를 따라 입대하여 여기까지 온 거라.. 그 녀석이 없어지면 저는.. 아아..				저항군 아브라오마스
 QUEST_LV_0400_20171128_002137	Resistor Leonardas	저항군 레오나르다스				
@@ -2556,9 +2556,9 @@ QUEST_LV_0400_20171128_002567	Kupole Scaia has asked you to defeat the demons in
 QUEST_LV_0400_20171128_002568	Activate the Ballandans Collapsing Device	발란디르 붕괴장치 활성화				
 QUEST_LV_0400_20171128_002569	Kupole Scaia has asked you to activate the Ballandans Collapsing Device. Activate the device and protect it from the demons' attacks.	큐폴 스카이와는 발란디르 붕괴장치를 활성화 시켜달라고 부탁했습니다. 발란디르 붕괴장치를 활성화 시킨 후 일정 시간동안 마족들의 공격으로부터 보호하세요				
 QUEST_LV_0400_20171128_002570	You have activated the Ballandans Collapsing Device. Return to Goddess Vaivora.	발란디르 붕괴장치를 활성화 시켰습니다. 여신 바이보라에게 돌아가세요				
-QUEST_LV_0400_20171128_002571	Defeat Demon Lord Luci	마군주 루시 처치				
-QUEST_LV_0400_20171128_002572	Neringa has instructed you to make it look as if demons have destroyed the Ballanorth Collapsing Device. After activating the device, defeat Demon Lord Luci near the device. After defeating Demon Lord Luci, the magic explosion will overload the collapsing device and destroy it.	네링가는 계획대로 발라노스 붕괴장치가 마족들에 의해 파괴된 것처럼 꾸미라고 했습니다. 발라노스 붕괴장치를 활성화 시킨 후 마군주 루시가 등장하면 붕괴장치 주변에서 처치하세요. 마군주 루시가 소멸하며 방출하는 마력에 의해 발라노스 붕괴장치가 과부화되어 파괴될 것 입니다				
-QUEST_LV_0400_20171128_002573	As planned, Demon Lord Luci has been defeated, and the Ballanorth Collapsing Device has been destroyed due to overload. Report to Neringa.	계획대로 마군주 루시가 소멸하며 방출한 마력에 의해 발라노스 붕괴장치가 과부화로 파괴되었습니다. 네링가에게 보고하세요				
+QUEST_LV_0400_20171128_002571	Defeat Demon Lord Lucy	마군주 루시 처치				
+QUEST_LV_0400_20171128_002572	Neringa has instructed you to make it look as if demons have destroyed the Ballanorth Collapsing Device. After activating the device, defeat Demon Lord Lucy near the device. After defeating Demon Lord Lucy, the magic explosion will overload the collapsing device and destroy it.	네링가는 계획대로 발라노스 붕괴장치가 마족들에 의해 파괴된 것처럼 꾸미라고 했습니다. 발라노스 붕괴장치를 활성화 시킨 후 마군주 루시가 등장하면 붕괴장치 주변에서 처치하세요. 마군주 루시가 소멸하며 방출하는 마력에 의해 발라노스 붕괴장치가 과부화되어 파괴될 것 입니다				
+QUEST_LV_0400_20171128_002573	As planned, Demon Lord Lucy has been defeated, and the Ballanorth Collapsing Device has been destroyed due to overload. Report to Neringa.	계획대로 마군주 루시가 소멸하며 방출한 마력에 의해 발라노스 붕괴장치가 과부화로 파괴되었습니다. 네링가에게 보고하세요				
 QUEST_LV_0400_20171128_002574	Neringa is waiting for you in Valandis Room 91.	발란디스 91관에서 네링가가 당신을 기다리고 있습니다				
 QUEST_LV_0400_20171128_002575	Shadow of the Black Wing	검은 날개의 그림자				
 QUEST_LV_0400_20171128_002576	Destroy Demon Dimensional Door	마족 차원문 파괴				
@@ -2566,8 +2566,8 @@ QUEST_LV_0400_20171128_002577	Before fighting Giltine, Neringa has told you to d
 QUEST_LV_0400_20171128_002578	Track down Giltine	길티네 추적				
 QUEST_LV_0400_20171128_002579	Neringa has told you that Giltine has approached the Revelation. Protect and follow Neringa to track down Giltine.	네링가는 길티네가 계시에 근접했다고 합니다. 네링가의 주변에서 네링가를 보호하며 길티네를 추적하세요				
 QUEST_LV_0400_20171128_002580	Confront Demon Goddess Giltine	마신 길티네에게 맞서기				
-QUEST_LV_0400_20171128_002581	Demon Goddess Giltine has finally reached the Revelation. Neringa has told you to follow Leima's prophesy and put on end to the plan.	마신 길티네가 결국 계시에 다다랐습니다. 네링가는 길티네에게 맞서 라이마의 예지를 따르고 계획을 마무리 짓자고 합니다.				
-QUEST_LV_0400_20171128_002582	You have followed Leima's prophesy. Report to Goddess Vaivora.	네링가가 제시한 라이마의 예시를 모두 따랐습니다. 여신 바이보라에게 결말을 알려주세요				
+QUEST_LV_0400_20171128_002581	Demon Goddess Giltine has finally reached the Revelation. Neringa has told you to follow Laima's prophecy and put on end to the plan.	마신 길티네가 결국 계시에 다다랐습니다. 네링가는 길티네에게 맞서 라이마의 예지를 따르고 계획을 마무리 짓자고 합니다.				
+QUEST_LV_0400_20171128_002582	You have followed Laima's prophecy. Report to Goddess Vaivora.	네링가가 제시한 라이마의 예시를 모두 따랐습니다. 여신 바이보라에게 결말을 알려주세요				
 QUEST_LV_0400_20171128_002583	Defeat the demons carrying Magic Signals	마력 신호를 지닌 마족 처치				
 QUEST_LV_0400_20171128_002584	Kupole Rugile has asked you to eliminate demons who have been creating points of invasions. Defeat the demons who are carrying Magic Signals.	큐폴 루길레는 침공 지점을 만들어내는 것으로 추정되는 마족들을 처치해달라고 부탁했습니다. 마력 신호 효과를 지닌 마족을 처치하세요.				
 QUEST_LV_0400_20171128_002585	You have defeated enough demons carrying Magic Signals. Report to Kupole Rugile.	마력 신호 효과를 지닌 몬스터를 충분히 처치했습니다. 큐폴 루길레에게 보고하세요				
@@ -3082,10 +3082,26 @@ QUEST_LV_0400_20180208_003101	I knew that Neringa would leave eventually.{nl}She
 QUEST_LV_0400_20180208_003102	If we meet again, there is much I want to ask.{nl}But it will have to wait until the world is freed from Giltine's grasp.{nl}	언젠가 재회한다면 묻고 싶은 게 많습니다.{nl}하지만 길티네의 손아귀에 이 세계가 끝나버리고 말겠지요.{nl}				여신 바이보라
 QUEST_LV_0400_20180208_003103	This power was something given to me by Laima through Neringa.{nl}And it was Neringa who told me to pass this on to you, once everything was finished.{nl}	이 힘은 라이마가 네링가를 통해 저에게 맡겨둔 것입니다.{nl}네링가는 모든 일이 끝나면 라이마의 뜻대로 이 힘을 그대에게 전해달라고 했습니다.{nl}				여신 바이보라
 QUEST_LV_0400_20180208_003104	I pray this will be useful to you.	이 힘이 그대에게 도움이 되길 바랍니다.				여신 바이보라
-QUEST_LV_0400_20180228_003111		제 2장 : 숨겨진 왕릉 전설{nl}-{nl}대삼림지대는 예로부터 그 울창한{nl}삼림 덕분에 평시에는 귀족들의{nl}사냥터를 제공하고, 비상시에는{nl}귀족은 물론 일반 백성의 피난처로{nl}쓰이곤 했습니다.{nl}따라서 곳곳에 그런 사람들이{nl}겪은 이야기가 있는 것은{nl}당연합니다.{nl}그런데 이상하게도 왕실과 관련된{nl}이야기는 없는데 그 이유가{nl}타니엘 2세 시대에 이곳에{nl}비밀 왕릉을 만든 후 엄청난{nl}부장품을 함께 묻었기 때문이라는{nl}소문이 있습니다.	QUEST_LV_0400_20180219_003109		제 2장 : 숨겨진 왕릉 전설{nl}-{nl}대삼림지대는 예로부터 그 울창한{nl}삼림 덕분에 평시에는 귀족들의{nl}사냥터를 제공하고, 비상시에는{nl}귀족은 물론 일반 백성의 피난처로{nl}쓰이곤 했습니다.{nl}따라서 곳곳에 그런 사람들이{nl}겪은 이야기가 있는 것은{nl}당연합니다.
+QUEST_LV_0400_20180305_003111		제 2장 : 숨겨진 왕릉 전설{nl}-{nl}대삼림지대는 예로부터 그 울창한{nl}삼림 덕분에 평시에는 귀족들의{nl}사냥터를 제공하고, 비상시에는{nl}귀족은 물론 일반 백성의 피난처로{nl}쓰이곤 했습니다.{nl}따라서 곳곳에 그런 사람들이{nl}겪은 이야기가 있는 것은{nl}당연합니다.{nl}그런데 이상하게도 왕실과 관련된{nl}이야기는 없는데 그 이유가{nl}타니엘 2세 시대에 이곳에{nl}비밀 왕릉을 만든 후 엄청난{nl}부장품을 함께 묻었기 때문이라는{nl}소문이 있습니다.	QUEST_LV_0400_20161005_000475	Chapter 2 : Legends of the Hidden Royal Mausoleum{nl}-{nl}The Great Woodlands have been used by the nobles and public alike{nl}as hunting grounds or refuge thanks to their lush vegetation.{nl}As such, it is an inevitability that people have experience.{nl}However, the funny thing is{nl}there is no account related to the royal family.{nl}According to some rumors,{nl}the reason for lack of accounts is because after Taniel II era.{nl}Many offerings were buried in the secret mausoleum.	제 2장 : 숨겨진 왕릉 전설{nl}-{nl}대삼림지대는 예로부터 그 울창한{nl}삼림 덕분에 평시에는 귀족들의{nl}사냥터를 제공하고, 비상시에는{nl}귀족은 물론 일반 백성의 피난처로{nl}쓰이곤 했습니다.{nl}따라서 곳곳에 그런 사람들이{nl}겪은 이야기가 있는 것은{nl}당연합니다.
 
 {nl}그런데 이상하게도 왕실과 관련된{nl}이야기는 없는데 그 이유가{nl}타니엘 2세 시대에 이곳에{nl}비밀 왕릉을 만든 후 엄청난{nl}부장품을 함께 묻었기 때문이라는{nl}소문이 있습니다.	전설 속 동굴 : 개정판 제 2권
-QUEST_LV_0400_20180228_003112		사실 역대 다른 국왕과 달리{nl}타니엘 2세의 공식 장례 기록은{nl}부실하기 때문에 이 소문은 상당한{nl}신빙성을 지녔습니다.{nl}역대의 국왕들께서는 화장이든{nl}매장이든 상관없이 확실한 기록이{nl}남아있기 때문입니다.{nl}하지만 이 소문이 사실이라도{nl}그 무덤이 세상에 모습을 드러낼{nl}날은 오지 않을 것 같습니다.{nl}	QUEST_LV_0400_20161005_000477	To be frank, record of Taniel the Second's funeral{nl}are extremely sparse{nl}which lends extra credibility to these claims.{nl}That is because the other funerals{nl}had some sort of records{nl}no matter how small.{nl}However, even if these claims are true{nl}the Mausoleum will never see the light of day.	사실 역대 다른 국왕과 달리{nl}타니엘 2세의 공식 장례 기록은{nl}부실하기 때문에 이 소문은 상당한{nl}신빙성을 지녔습니다.{nl}역대의 국왕들께서는 화장이든{nl}매장이든 상관없이 확실한 기록이{nl}남아있기 때문입니다.{nl}하지만 이 소문이 사실이라도{nl}그 무덤이 세상에 모습을 드러낼{nl}날은 오지 않을 것 같습니다.	전설 속 동굴 : 개정판 제 2권
-QUEST_LV_0400_20180228_003113		아무리 깊은 숲속에서 몰래{nl}왕릉의 위치를 캐고 다니고 싶어도{nl}대삼림지대를 돌보시는 {nl}메데이나 여신의눈을{nl}피하기는 어렵기 때문입니다.{nl}그러므로 이 소문은 설령{nl}사실이라도 영원히 전설로만{nl}남을 것 같습니다.	QUEST_LV_0400_20180219_003110		
+QUEST_LV_0400_20180305_003112		사실 역대 다른 국왕과 달리{nl}타니엘 2세의 공식 장례 기록은{nl}부실하기 때문에 이 소문은 상당한{nl}신빙성을 지녔습니다.{nl}역대의 국왕들께서는 화장이든{nl}매장이든 상관없이 확실한 기록이{nl}남아있기 때문입니다.{nl}하지만 이 소문이 사실이라도{nl}그 무덤이 세상에 모습을 드러낼{nl}날은 오지 않을 것 같습니다.{nl}	QUEST_LV_0400_20161005_000477	To be frank, record of Taniel the Second's funeral{nl}are extremely sparse{nl}which lends extra credibility to these claims.{nl}That is because the other funerals{nl}had some sort of records{nl}no matter how small.{nl}However, even if these claims are true{nl}the Mausoleum will never see the light of day.	사실 역대 다른 국왕과 달리{nl}타니엘 2세의 공식 장례 기록은{nl}부실하기 때문에 이 소문은 상당한{nl}신빙성을 지녔습니다.{nl}역대의 국왕들께서는 화장이든{nl}매장이든 상관없이 확실한 기록이{nl}남아있기 때문입니다.{nl}하지만 이 소문이 사실이라도{nl}그 무덤이 세상에 모습을 드러낼{nl}날은 오지 않을 것 같습니다.	전설 속 동굴 : 개정판 제 2권
+QUEST_LV_0400_20180305_003113		아무리 깊은 숲속에서 몰래{nl}왕릉의 위치를 캐고 다니고 싶어도{nl}대삼림지대를 돌보시는 {nl}메데이나 여신의눈을{nl}피하기는 어렵기 때문입니다.{nl}그러므로 이 소문은 설령{nl}사실이라도 영원히 전설로만{nl}남을 것 같습니다.	QUEST_LV_0400_20161005_000478	The location of the secret mausoleum remains hidden{nl}for it is almost impossible to avoid{nl}the gaze of  Goddess Medeina.{nl}That is why even if the rumors are true, it is likely that it will remain just a legend.	
 
 아무리 깊은 숲속에서 몰래{nl}왕릉의 위치를 캐고 다니고 싶어도{nl}대삼림지대를 돌보시는 {nl}메데이나 여신의눈을{nl}피하기는 어렵기 때문입니다.{nl}그러므로 이 소문은 설령{nl}사실이라도 영원히 전설로만{nl}남을 것 같습니다.	전설 속 동굴 : 개정판 제 2권
+QUEST_LV_0400_20180320_003114	Goddess Medeina used the trees to sow a song that she could pass on to the priests.{nl}The priests would then break down the metaphorical lyrics to grasp the Goddess' true meaning. 	메데이나 여신은 사제들에게 자신의 의사를 노래하는 나무를 통해 전달하곤 하셨어요.{nl}노래 가사가 은유적이기에 사제들은 그 의미를 해석해 여신의 생각을 파악하곤 했어요.	QUEST_LV_0400_20171128_001613	Goddess Medeina used the trees to sow a song that she could pass on to the priests.{nl}The priests would then break down the metaphorical lyrics to grasp the Goddess' true meaning. 	메데이나 여신은 사제들에게 자신의 의사를 나무에 노래를 심어서 전달하곤 하셨어요.{nl}노래 가사가 은유적이기에 사제들은 그 의미를 해석해 여신의 생각을 파악하곤 했어요.	메데이나 여신의 사제 인드레아
+QUEST_LV_0400_20180320_003115	To change the detectors, the detector and its auxiliary systems must be shut down.{nl}Yet, there are numerous systems. If even one turns back on, the remaining ones will also turn on, making the task difficult.	감지 시설의 용도를 변경하려면 감지 시설과 보조 감지 시설 모두를 꺼야 합니다.{nl}하지만 보조 시설이 여러 개인데다가 하나라도 켜져 있으면 다시 작동합니다.{nl}심지어 보조 시설마다 작동하기까지의 시간이 모두 달라 빨리 끄지 않으면 용도 변경이 쉽지 않습니다.	QUEST_LV_0400_20171128_001679	To change the detectors, the detector and its auxiliary systems must be shut down.{nl}Yet, there are numerous systems. If even one turns back on, the remaining ones will also turn on. Making the task difficult.	감지 시설의 용도를 변경하려면 감지 시설과 보조 감지 시설 모두를 꺼야 합니다.{nl}하지만 보조 시설이 여러 개인데다가 하나라도 켜져 있으면 다시 하나 둘씩 켜지기 때문에 용도 변경이 쉽지 않습니다.	수도사 아이스티스
+QUEST_LV_0400_20180517_003116	Teliavelis	테리아베리스				
+QUEST_LV_0400_20180517_003117	I see you got a few Spirit Fragments from that Velcoffer monster.{nl}Say, I could make you a fine piece of armor with those.	벨코퍼란 몬스터를 처치해서 벨코퍼의 온전한 영혼 조각이 나왔다는 말인가?{nl}내게 벨코퍼의 온전한 영혼 조각을 준다면 그에 어울리는 상의 아이템 만들어주겠네.				테리아베리스
+QUEST_LV_0400_20180517_003118	Here ya go.{nl}If you get any more Velcoffer Spirit Fragments, just come and talk to me.	자, 여기있네.{nl}앞으로 벨코퍼의 영혼 조각을 내게 가져오게.				테리아베리스
+QUEST_LV_0400_20180517_003119	I can fix you up with a new piece of Velcoffer gear any time you need.	내 튼튼한 팔로다가 벨코퍼 장비를 만들어주리다.				테리아베리스
+QUEST_LV_0400_20180517_003120	Velcoffer Armor (1)	벨코퍼의 갑주(1)				
+QUEST_LV_0400_20180517_003121	Velcoffer Armor (2)	벨코퍼의 갑주(2)				
+QUEST_LV_0400_20180517_003122	Here, take them.	전달한다				
+QUEST_LV_0400_20180517_003123	I'll hold on to them for now.	그냥 가지고 있는다				
+QUEST_LV_0400_20180517_003124	Velcoffer Armor	벨코퍼의 갑주				
+QUEST_LV_0400_20180517_003125	Defeat Velcoffer	벨코퍼를 처치하기				
+QUEST_LV_0400_20180517_003126	Defeat Velcoffer at Velcoffer's Nest.	벨코퍼 둥지에 있는 벨코퍼를 처치하세요.				
+QUEST_LV_0400_20180517_003127	Defeat %s at Velcoffer's Nest.	벨코퍼 둥지에 있는 %s를 처치				
+QUEST_LV_0400_20180517_003128	Talk to Teliavelis	테리아베리스와 대화				
+QUEST_LV_0400_20180517_003129	Obtained Velcoffer Spirit Fragments. Talk to Blacksmith Teliavelis; he might know how to use them.	벨코퍼의 온전한 영혼 조각을 획득했습니다. 이것의 활용처를 알고 있을법한 인물인 대장장이 테리아베리스와 대화하세요.				
