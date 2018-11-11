@@ -56,7 +56,7 @@ So switch to native language whenever you're going to do market search.
 
 
 ## Credits
-This tool is open-sourced by player 波光粼粼 at guild [夏祭](https://forum.gamer.com.tw/C.php?bsn=19840&snA=29788) in tw-tos.
+This tool is open-sourced by player 波光粼粼 at guild 蘋果樹 in tw-tos.
 
 The Korean to English Translation is cloned from [here](https://github.com/Treeofsavior/EnglishTranslation). I really appreciate their efforts.
 
