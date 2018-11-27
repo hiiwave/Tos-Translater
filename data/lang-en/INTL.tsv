@@ -169,3 +169,101 @@ INTL_20180514_000168	Artisan Secret Recipe - Emengard Shield	장인의 비밀 �
 INTL_20180523_000169	Grants Token benefits to all your characters in the server for 60 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl}- Movement speed +3{nl} - +50% EXP from hunting monsters{nl}(Stacks with EXP Tome effects){nl}- Team Storage slots +30{nl} - Able to use Premium Gestures{nl} - Able to use Personal Trade up to 60 times	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 60일간 혜택이 적용됩니다. 캐릭터 정보창에서 잔여 시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +50% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 +30칸 증가{nl} - 프리미엄 제스쳐 사용 가능{nl} - 개인 거래 60회 가능				
 INTL_20180523_000170	Grants Token benefits to all your characters in the server for 7 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl}- Movement speed +3{nl} - +50% EXP from hunting monsters{nl}(Stacks with EXP Tome effects){nl}- Team Storage slots +30{nl} - Able to use Premium Gestures	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 7일간 혜택이 적용됩니다. 캐릭터 정보창에서 잔여 시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +50% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 +30칸 증가{nl} - 프리미엄 제스쳐 사용 가능	INTL_20170925_000047	Applies Token benefits to all your characters in the server for 7 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +30% EXP from hunting monsters{nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - 1 extra instance entry for missions and dungeons	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 7일간 혜택이 적용됩니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 9개{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +30% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 프리미엄 제스쳐 사용 가능{nl} - 최대 버프 적용 개수 증가{nl} - 미션,던전 1회 추가입장{nl} - 살러스 수녀원 미션 완료 보상 +1	
 INTL_20180525_000171	Use to obtain the following costumes.{nl} - The Invited One Costume (Male){nl} - The Invited One Costume (Female)	사용 시 코스튬을 획득할 수 있습니다.{nl} - 초대에 응한 자 코스튬(남){nl} - 초대에 응한 코스튬(여)	INTL_20180326_000128	An event Warp Scroll.{nl}Use it to move to the 2nd Anniversary Event NPC.	이벤트용 워프 주문서입니다.{nl}사용 시 2주년 이벤트 도우미 npc 앞으로 이동합니다.	
+INTL_20180615_000172	A title given to the most creative TPP players. Right-click to use.	Creative TPP Player에게 지급되는 칭호입니다. 마우스 오른쪽 클릭으로 사용합니다.				
+INTL_20180615_000173	Cursed Spirit Owner	저주받은 혼 사용자				
+INTL_20180615_000174	Cursed Spirit	저주받은 혼				
+INTL_20180615_000175	Show it to the Dispatched Soldier to enter the area of the Cursed Altar.{nl}Alternatively, use to increase movement speed +2, physical attack +50 and magic attack +50 for 10 mins.	저주받은 병사에게 보여주면 저주받은 지역으로 갈 수 있습니다.{nl}사용 시 10분 동안 이동속도 +2, 물리 공격력 +50, 마법 공격력 +50 증가합니다.				
+INTL_20180615_000176	You can't go past this point without a Cursed Spirit.	저주받은 혼이 없는 자는 이 앞을 지나갈 수 없다.				저주받은 병사
+INTL_20180615_000177	Cursed Spirits come from the monsters that roam around this place. Good luck getting one.	저주받은 해안의 몬스터를 처치해야만 저주받은 혼을 구할 수 있는 것도 모르는 애송이로군.				저주받은 병사
+INTL_20180615_000178	Voice in the Distance	어디선가 들려오는 목소리				
+INTL_20180615_000179	The Stone Whale can only be awakened through a Cursed Spirit...	오직 저주받은 혼으로만 저주받은 석화 고래를 깨울 수 있지..				어디선가 들려오는 목소리
+INTL_20180615_000180	I have a Cursed Spirit.	저주받은 혼을 보여준다.				
+INTL_20180615_000181	{Name} has awakened the Cursed Stone Whale.	{Name}님이 저주받은 석화 고래를 깨웠습니다.				
+INTL_20180723_000182	Title given to awarded contestants of the 2018 Summer fanart festival. Right-click to use.	Loving Summer 팬아트 수상자에게 지급되는 칭호입니다. 마우스 오른쪽 클릭으로 사용합니다.				
+INTL_20180809_000183	A title given to event participants. Right-click to use.	이벤트 참여자에게 지급되는 칭호입니다. 마우스 오른쪽 클릭으로 사용합니다.				
+INTL_20180809_000184	EXP +100%, movement speed +3, max. HP increase{nl}HP, SP and Stamina recovery, AoE attack ratio +2	경험치 100% 증가, 이동속도 +3, 최대체력 증가{nl}HP, SP, 스태미너 회복, 광역 공격 비율 +2				
+INTL_20180809_000185	EXP +100%, movement speed +3, Looting Chance +100{nl}HP, SP and Stamina recovery	경험치 100% 증가, 이동속도 +3, 루팅찬스 +100{nl}HP, SP, 스태미너 회복				
+INTL_20180809_000186	[Event] Unlock Voucher Selection Box	[이벤트] 해금권 선택 상자				
+INTL_20180809_000187	Hidden Class Unlock Voucher Box {nl} List of Unlockable Classes {nl} - Shinobi Unlock Voucher {nl} - Miko Unlock Voucher {nl} - Rune Caster Unlock Voucher {nl} - Appraiser Unlock Voucher {nl} - Nak Muay Unlock Voucher{nl}Will be automatically deleted at the end of the event period.	히든 직업 해금권 선택 상자 {nl} 선택 가능 목록 {nl} - 시노비 해금권 {nl} - 무녀 해금권 {nl} - 룬 캐스터 해금권 {nl} - 감정사 해금권 {nl} - 낙무아이 해금권{nl}(이벤트 종료 시 일괄 삭제됩니다.)				
+INTL_20180809_000188	[Event] Lv 350 Enhanced/Transcended Weapon Selection Box	[이벤트] 350레벨 강화 및 초월 무기 선택 상자				
+INTL_20180809_000189	Use to select a Rare Lv 350 weapon enhanced to +11 and transcended to Stage 5.{nl}Enhancement and transcendence apply after the weapon is selected.{nl}The box will be automatically deleted at the end of the event period.	350레벨 레어 11강 5초월 무기를 지급 받을 수 있습니다.{nl}(강화 및 초월은 아이템 선택 시 적용됩니다.){nl}(이벤트 종료 시 일괄 삭제됩니다.)				
+INTL_20180809_000190	A title given to event participants. Right-click to use.	이벤트에 참여자에게 지급되는 칭호입니다. 마우스 오른쪽 클릭으로 사용합니다.				
+INTL_20180809_000191	[Friend] Berthas Raffye Sword 	[우정] 베르타스 라파이 소드				
+INTL_20180809_000192	[Friend] Berthas Raffye Two-handed Sword	[우정] 베르타스 라파이 투 핸드 소드				
+INTL_20180809_000193	[Friend] Berthas Raffye Rod	[우정] 베르타스 라파이 로드				
+INTL_20180809_000194	[Friend] Berthas Raffye Bow	[우정] 베르타스 라파이 보우				
+INTL_20180809_000195	[Friend] Berthas Raffye Crossbow	[우정] 베르타스 라파이 크로스보우				
+INTL_20180809_000196	[Friend] Berthas Raffye Mace	[우정] 베르타스 라파이 메이스				
+INTL_20180809_000197	[Friend] Berthas Raffye Two-handed Mace	[우정] 베르타스 라파이 투 핸드 메이스				
+INTL_20180809_000198	[Friend] Berthas Raffye Shield 	[우정] 베르타스 라파이 실드				
+INTL_20180809_000199	[Friend] Berthas Raffye Spear 	[우정] 베르타스 라파이 스피어				
+INTL_20180809_000200	[Friend] Berthas Raffye Pike 	[우정] 베르타스 라파이 파이크				
+INTL_20180809_000201	[Friend] Berthas Raffye Dagger	[우정] 베르타스 라파이 대거				
+INTL_20180809_000202	[Friend] Berthas Raffye Staff	[우정] 베르타스 라파이 스태프				
+INTL_20180809_000203	[Friend] Berthas Raffye Pistol	[우정] 베르타스 라파이 피스톨				
+INTL_20180809_000204	[Friend] Berthas Raffye Rapier	[우정] 베르타스 라파이 레이피어				
+INTL_20180809_000205	[Friend] Berthas Raffye Cannon	[우정] 베르타스 라파이 캐논				
+INTL_20180809_000206	[Friend] Berthas Raffye Musket 	[우정] 베르타스 라파이 머스킷				
+INTL_20180809_000207	[Event] Miko Unlock Voucher	[이벤트] 무녀 클래스 해금권				
+INTL_20180809_000208	Use to unlock the Miko class after reaching Rank 6. Right-click to use.{nl}Will be automatically deleted at the end of the event period.	사용 시 6랭크 달성 후 무녀 클래스를 선택할 수 있습니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}(이벤트 종료 시 일괄 삭제됩니다.)				
+INTL_20180809_000209	[Event] Appraiser Unlock Voucher	[이벤트] 감정사 클래스 해금권				
+INTL_20180809_000210	Use to unlock the Appraiser class after reaching Rank 5. Right-click to use.{nl}Will be automatically deleted at the end of the event period.	사용 시 5랭크 달성 후 감정사 클래스를 선택할 수 있습니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}(이벤트 종료 시 일괄 삭제됩니다.)				
+INTL_20180809_000211	[Event] Rune Caster Unlock Voucher	[이벤트] 룬캐스터 클래스 해금권				
+INTL_20180809_000212	Use to unlock the Rune Caster class after reaching Rank 6. Right-click to use.{nl}Will be automatically deleted at the end of the event period.	사용 시 6랭크 달성 후 룬캐스터 클래스를 선택할 수 있습니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}(이벤트 종료 시 일괄 삭제됩니다.)				
+INTL_20180809_000213	[Event] Shinobi Unlock Voucher	[이벤트] 시노비 클래스 해금권				
+INTL_20180809_000214	Use to unlock the Shinobi class after reaching Rank 7. Right-click to use.{nl}Will be automatically deleted at the end of the event period.	사용 시 7랭크 달성 후 시노비 클래스를 선택할 수 있습니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}(이벤트 종료 시 일괄 삭제됩니다.)				
+INTL_20180809_000215	[Event] Nak Muay Unlock Voucher	[이벤트] 낙무아이 클래스 해금권				
+INTL_20180809_000216	Use to unlock the Nak Muay class after reaching Rank 7. Right-click to use.{nl}Will be automatically deleted at the end of the event period.	사용 시 7랭크 달성 후 낙무아이 클래스를 선택할 수 있습니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}(이벤트 종료 시 일괄 삭제됩니다.)				
+INTL_20180809_000217	2018 Leticia's Treasure Chest (Season 1)	2018 레티샤의 보물 상자(시즌1)				
+INTL_20180809_000218	Invite a Friend Event Helper	친구 추천 이벤트 도우미				
+INTL_20180809_000219	The Invite a Friend event is now open!{nl}Login with your friend to receive buffs and rewards!	친구 추천 이벤트가 진행 중입니다.{nl}친구와 함께 접속 시 다양한 보상과 버프를 획득할 수 있습니다.				친구 추천 이벤트 도우미
+INTL_20180809_000220	You are not eligible for the event.	이벤트 참여 대상이 아닙니다.				
+INTL_20180809_000221	Team {#003399}{team}{/} contains no characters of level 50 or above.	{#003399}{team}{/}팀 내에 50레벨 이상인 캐릭터가 없습니다.				
+INTL_20180809_000222	Receive {#003399}{team}{/}'s Support	{#003399}{team}{/}의 성장 지원 받기				
+INTL_20180809_000223	{#003399}{team}{/} is now online.{nl}Buff applied.	{#003399}{team}{/}님이 접속 중입니다.{nl}버프가 부여됩니다.				
+INTL_20180809_000224	Invite a Friend' Helper	친구 추천 도우미				
+INTL_20180817_000225	[Event] Enhanced/Transcended Weapon Selection Box (14 Days)	[이벤트] 강화 및 초월 무기 선택 상자 (14일)				
+INTL_20180817_000226	Use at level 230 and above to select a Lv 315 Rare weapon (30 Days) enhanced to +10 and transcended to Stage 3.{nl}(Enhancement and transcendence are applied after the item is selected.)	230레벨에 사용할 수 있는 315레벨 레어 10강 3초월 무기(30일)을 지급 받을 수 있습니다.{nl}(강화 및 초월은 아이템 선택 시 적용됩니다.)				
+INTL_20180817_000227	[Return] Abdochar (30 Days)	[복귀] 아브도챠 (30일)				
+INTL_20180817_000228	[Return] Sarkmis (30 Days)	[복귀] 사크미스 (30일)				
+INTL_20180817_000229	[Return] Skull Smasher (30 Days)	[복귀] 스컬 스매셔 (30일)				
+INTL_20180817_000230	[Return] Regard Horn Staff (30 Days)	[복귀] 리가드 혼 스태프 (30일)				
+INTL_20180817_000231	[Return] Heart of Glory (30 Days)	[복귀] 하트 오브 글로리 (30일)				
+INTL_20180817_000232	[Return] Skull Breaker (30 Days)	[복귀] 스컬 브레이커 (30일)				
+INTL_20180817_000233	[Return] Emengard Dagger (30 Days)	[복귀] 에멘가드 대거 (30일)				
+INTL_20180817_000234	[Return] Wingshard Spear (30 Days)	[복귀] 윙샤드 스피어 (30일)				
+INTL_20180817_000235	[Return] Regard Horn Pike (30 Days)	[복귀] 리가드 혼 파이크 (30일)				
+INTL_20180817_000236	[Return] Black Horn (30 Days)	[복귀] 블랙 혼 (30일)				
+INTL_20180817_000237	[Return] Regard Horn Crossbow (30 Days)	[복귀] 리가드 혼 크로스보우 (30일)				
+INTL_20180817_000238	[Return] Astra Bow (30 Days)	[복귀] 아스트라 보우 (30일)				
+INTL_20180817_000239	[Return] Aspana Revolver (30 Days)	[복귀] 아스파나 리볼버 (30일)				
+INTL_20180817_000240	[Return] Emengard Cannon (30 Days)	[복귀] 에멘가드 캐논 (30일)				
+INTL_20180817_000241	[Return] Emengard Musket (30 Days)	[복귀] 에멘가드 머스킷 (30일)				
+INTL_20180817_000242	[Return] Emengard Shield (30 Days)	[복귀] 에멘가드 실드 (30일)				
+INTL_20180827_000243	A title given to Game Guide Creators. Right-click to use.	Game Guide Creator에게 지급되는 칭호입니다. 마우스 오른쪽 클릭으로 사용합니다.				
+INTL_20180903_000244	{ds}{b}{#ffefd6}30 min: {#fe7e00}10 POINTS	{ds}{b}{#ffefd6}30분:{#fe7e00}10 POINT				
+INTL_20180903_000245	Please try again.	Popo Shop의 재시도 버튼을 클릭해주세요				
+INTL_20180903_000246	Failed to purchase item. Please try again.	Popo Shop 아이템 구매에 실패했습니다. 다시 시도해 주세요.				
+INTL_20180903_000247	Not enough Popo Points.	Popo Shop 포인트가 부족합니다.				
+INTL_20180907_000248	Use Mongo DB system message save/load function Y/N	몽고 db에 특정 시스템 메시지 저장/로드 기능 사용할 것인지				
+INTL_20180914_000249	Combat Support Shop Voucher (14 Days)	전투 지원 상점 이용권(14일)				
+INTL_20180914_000250	Opens a shop where you can purchase potions, skill consumables and other useful items.	사용 시 전투에 필요한 물건을 구매할 수 있는 상점을 이용할 수 있습니다.				
+INTL_20180914_000251	Combat Support Shop Voucher	전투 지원 상점 이용권				
+INTL_20180914_000252	2018 Leticia's Treasure Chest (Season 2)	2018 레티샤의 보물 상자(시즌2)				
+INTL_20180928_000253	A title given to winners of the 2018 Halloween fan art contest. Right-click to use.	Horror Night 팬아트 수상자에게 지급되는 칭호입니다. 마우스 오른쪽 클릭으로 사용합니다.				
+INTL_20181026_000254	Would you select a 10-time participation reward?	받으실 10회 참여 횟수 보상을 선택해 주시겠어요?				큐폴 다이나
+INTL_20181026_000255	Skill Reset Potion (14 Days) and Latte Art: Bunny	스킬 초기화 포션 (14일), 거품 토끼				
+INTL_20181026_000256	Skill Reset Potion (14 Days) and Latte Art: Kitty	스킬 초기화 포션 (14일), 거품 고양이				
+INTL_20181104_000257	2018 Leticia's Treasure Chest (Season 3)	2018 레티샤의 보물 상자(시즌3)				
+INTL_20181111_000258	Unique Talt	유니크 탈트				
+INTL_20181111_000259	Can be exchanged for an equipment item at the Talt Processing Device.	탈트 가공 장치에서 장비 아이템으로 교환할 수 있습니다.				
+INTL_20181111_000260	Unique Unidentified Two-handed Weapon Box	유니크 미감정 양손 무기 선택 상자				
+INTL_20181111_000261	Select and obtain one Lv. 380 unidentified equipment item.{nl}The item will not be timed or include any trading restrictions.	380레벨 유니크 미감정 장비 아이템을 획득할 수 있습니다.{nl}획득한 장비 아이템은 무제한이며 모든 거래가 가능합니다.				
+INTL_20181111_000262	Unique Unidentified One-handed Weapon Box	유니크 미감정 한손 무기 선택 상자				
+INTL_20181111_000263	Unique Unidentified Top Armor Box	유니크 미감정 상의 선택 상자				
+INTL_20181111_000264	Unique Unidentified Bottom Armor Box	유니크 미감정 하의 선택 상자				
+INTL_20181111_000265	Unique Unidentified Gloves Box	유니크 미감정 장갑 선택 상자				
+INTL_20181111_000266	Unique Unidentified Boots Box	유니크 미감정 신발 선택 상자				
+INTL_20181111_000267	Function compiling tracing data when the ZoneServer FPS drops below 2 frames	ZoneServer의 FPS가 2프레임 이하일때 트레이싱 정보를 수집하는 기능				
+INTL_20181116_000268	A title given to winners of the TOS weapon design event. Right-click to use.	TOS Weapon Designer 수상자에게 지급되는 칭호입니다. 마우스 오른쪽 클릭으로 사용합니다.				
+INTL_20181116_000269	Talt Processing Device	탈트 가공 장치				

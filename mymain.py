@@ -10,7 +10,7 @@ output_path = Path('output/')
 
 matcher = Matcher(lang_en_path, lang_tw_path)
 matcher.export('tw', 'full', output_path / 'twtos-full')
-# matcher.export('tw', 'map', output_path / 'langmap')
+matcher.export('tw', 'map', output_path / 'langmap')
 
 # matcher.export('en', 'tw', output_path / 'itos-tw')
 # matcher.export('tw', 'en-opt', output_path / 'twtos-en')
