@@ -42,10 +42,10 @@ Hence it's possible to use the Korean content to match language data from differ
 ## Other Language Support:
 For Korean to English translation, there is already a group actively doing this. Please visit [here](https://github.com/Treeofsavior/EnglishTranslation).
 
-Theoretically, it's possible to support more languages without difficulty, including:
+Theoretically, it might be possible to support more languages without difficulty, including:
 - [ktos](http://tos.nexon.com) in Chinese
-- [jtos](http://tos.nexon.co.jp/) in English
-- [itos](https://treeofsavior.com/page/main/) in Japnese
+- ~~[jtos](http://tos.nexon.co.jp/) in English~~ (not possible, see [#1](https://github.com/hiiwave/Tos-Translater/issues/1))
+- ~~[itos](https://treeofsavior.com/page/main/) in Japnese~~ (not possible, see [#1](https://github.com/hiiwave/Tos-Translater/issues/1))
 
 Since I don't know if there is such demand, and I'm not familiar with those languages, the development of these language support is not done yet. Let me know if you're interested and want to contribute.
 
